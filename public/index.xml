@@ -121,7 +121,7 @@ Not only is there a financial incentive for players implicated with this award, 
 &lt;div id=&#34;obtainingscraping-nba-data&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Obtaining/Scraping NBA Data &lt;a name=&#34;data&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Box-score metrics standardized by &lt;em&gt;per 100 possessions&lt;/em&gt; was obtained through R, using the &lt;a href=&#34;https://rdrr.io/github/bobbyingram/bballR/man/scrape_all_players.html&#34;&gt;bballR&lt;/a&gt; R package.
-We chose to look at per 100 possessions instead of the conventional per game standard since per 100 possessions provides a more intuitive comparison between players under different eras and team offence styles.&lt;/p&gt;
+We chose to look at per 100 possessions instead of the conventional per game standard since per 100 possessions provides a more intuitive comparison between players coming from different eras and team offence styles.&lt;/p&gt;
 &lt;p&gt;Past All-NBA winners dating back from 1989 onward to 2019 was scraped through &lt;a href=&#34;https://www.basketball-reference.com/&#34;&gt;Basketball Reference&lt;/a&gt; with the &lt;code&gt;rVest&lt;/code&gt; R package.&lt;/p&gt;
 &lt;p&gt;To further reduce noise in the data, we chose to only consider players meeting the following 2 conditions:&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;

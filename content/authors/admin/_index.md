@@ -20,8 +20,8 @@ education:
 email: "petertea96@gmail.com"
 interests:
 - Sports Analytics
+- Tennis
 - Statistics
-- Yoga
 organizations:
 - name: Simon Fraser University
   url: "https://www.stat.sfu.ca/people/grads.html"
@@ -52,8 +52,7 @@ user_groups:
 [comment]: <> (Welcome to this awesome website! This is where I will be posting some fun data projects. Please stay tuned for things to come...)
 
 
-I am a MSc. Statistics student under the supervision of [Tim Swartz](http://people.stat.sfu.ca/~tim/) and currently employed as a Data Science co-op at [Aquatic Informatics](https://aquaticinformatics.com/).
+I am a MSc. Statistics student under the supervision of [Tim Swartz](http://people.stat.sfu.ca/~tim/) and currently employed as a Data Science co-op at [Aquatic Informatics](https://aquaticinformatics.com/). I sometimes write tennis blogs hosted on [StatsOnTheT](http://on-the-t.com/).
 
 
 In the past, I've held positions as an R consultant at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), a Statistical Genetics researcher under the supervision of [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/), as well as a Data Scientist at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html).
-
