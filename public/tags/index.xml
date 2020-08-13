@@ -5,12 +5,28 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>/tags/data-visualization/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tennis</title>
+      <link>/tags/tennis/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/tennis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Basketball</title>
@@ -37,14 +53,6 @@
     </item>
     
     <item>
-      <title>Data Visualization</title>
-      <link>/tags/data-visualization/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grand-Slam</title>
       <link>/tags/grand-slam/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
@@ -65,14 +73,6 @@
       <link>/tags/serve-speed/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/tags/serve-speed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tennis</title>
-      <link>/tags/tennis/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/tennis/</guid>
       <description></description>
     </item>
     

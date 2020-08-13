@@ -5,12 +5,24 @@
     <link>/tags/data-visualization/</link>
       <atom:link href="/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Data Visualization</title>
       <link>/tags/data-visualization/</link>
     </image>
+    
+    <item>
+      <title>Visualizing Tennis</title>
+      <link>/project/tennis_plots/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tennis_plots/</guid>
+      <description>
+
+
+&lt;p&gt;Good tennis data exist, but visualizations to interpret these data are lacking. Here is a &lt;a href=&#34;https://docs.google.com/presentation/d/1iIzTuu3-laCiinfauWEYW4_7PF934M50fm3q34eFx2Y/edit?usp=sharing&#34;&gt;gallery of plots&lt;/a&gt; that I will continually update as I try and provide data driven answers to some interesting tennis questions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Principal Component Analysis on All-NBA</title>
