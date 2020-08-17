@@ -1,5 +1,5 @@
 ---
-title: Visualizing Tennis
+title: Visualizing Numbers Behind the Tennis Serve
 author: Peter Tea
 date: '2020-07-12'
 categories:
@@ -15,7 +15,6 @@ image:
   caption: Photo by Guilherme Maggierion Unsplash
   focal_point: Smart
 summary: Tennis Data Visualization 
-url_slides: "https://docs.google.com/presentation/d/1iIzTuu3-laCiinfauWEYW4_7PF934M50fm3q34eFx2Y/edit?usp=sharing"
 ---
 
-Good tennis data exist, but visualizations to interpret these data are lacking. Here is a [gallery of plots](https://docs.google.com/presentation/d/1iIzTuu3-laCiinfauWEYW4_7PF934M50fm3q34eFx2Y/edit?usp=sharing) that I will continually update as I try and provide data driven answers to some interesting tennis questions.
+Good tennis data exist, but visualizations to interpret these data are lacking. Here is a [gallery of plots](https://docs.google.com/presentation/d/e/2PACX-1vRyqSkwyW4iwFLtw4PlvDCa7mPvf8kqiuyLUZK3MA2bJHOvvsl8pZyznSp4W1CQy1psJspUfuDmGxG3/pub?start=true&loop=false&delayms=15000) that I will continually update as I provide data driven answers to some interesting tennis questions — in particular the serve.
