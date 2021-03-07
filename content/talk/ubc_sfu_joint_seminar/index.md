@@ -30,7 +30,7 @@ tags: [R, Academic]
 title: Multilevel Models Applied in Sport
 url_poster: 
 #url_pdf: "Peter_Poster.pdf"
-url_slides: Anova.pdf
+#url_slides: Anova.pdf
 url_video: 
 ---
 
