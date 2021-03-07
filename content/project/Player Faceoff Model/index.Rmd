@@ -31,7 +31,7 @@ At first glance, we see that FOW $\%$ is extremely sensitive to faceoff opportun
 What these aggregate measures don’t account for are factors like quality of the opponent. We should be more impressed with wins against elite faceoff-takers like Sidney Crosby, and cautious with wins against comparatively weaker competition like Nick Suzuki. Moreover, these aggregates do not account for match context underlying each faceoff. As a solution, we propose a multilevel player faceoff model that account for these factors.
 
 
-\subsection*{Player Faceoff Model}
+## Player Faceoff Model
 
 Let $Y_{ijk}$  be the binary win-loss faceoff outcome (1 = Win, 0 = Loss) for player $i$ against player $j$ on the $k^{th}$ faceoff. We model our response using a generalized linear mixed model,
 
@@ -49,7 +49,7 @@ $\beta$ contains all fixed effects that describe how all players are affected on
 The player faceoff model was implemented with the R package $lme4$ using a binomial family for the outcome distribution. Code for model fitting can be found [here](https://github.com/petertea96/stathletes_hockey_hackathon_2021).
 
 
-\subsection*{Fixed Effects Results}
+## Fixed Effects Results
 
 Fixed effect results can be found in Table 1.
 
@@ -73,7 +73,7 @@ Furthermore, when a player has extra teammates on the ice (eg. while on the powe
 
 
 
-\subsection*{Random Effects Results}
+## Random Effects Results
 
 Below, we plot the predicted random intercepts with corresponding two standard deviation bands for all players who participated in at least 15 draws. Intercept values of 0 represent \textit{average} faceoff skill, while deviations upward or downward represent above or below average skill, respectively.
 
@@ -85,7 +85,7 @@ With the player faceoff model, we can also obtain head-to-head faceoff predictio
 
 
 
-\subsection*{Limitations and Further Work}
+## Limitations and Further Work
 
 With a limited sample size of 783 faceoffs, there was a weak appetite for a highly parameterized model. While we found some significant effects, we likely did not capture all relevant effects such as player fatigue or head-to-head interactions. 
 
