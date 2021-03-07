@@ -21,7 +21,7 @@ email: "petertea96@gmail.com"
 interests:
 - Sports Analytics
 - Tennis
-- Statistics
+- Handstands
 organizations:
 - name: Simon Fraser University
   url: "https://www.stat.sfu.ca/people/grads.html"
@@ -51,7 +51,8 @@ user_groups:
 ---
 
 
-I am a MSc. Statistics student under the supervision of [Tim Swartz](http://people.stat.sfu.ca/~tim/) and currently employed part-time as an analyst at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) studying `Tax Evasion`. I sometimes write tennis blogs hosted on [StatsOnTheT](http://on-the-t.com/).
+I am a MSc. Statistics student under the supervision of [Tim Swartz](http://people.stat.sfu.ca/~tim/). I sometimes write tennis blogs hosted on [StatsOnTheT](http://on-the-t.com/).
 
 
-In the past, I've held positions as a Data Science co-op at [Aquatic Informatics](https://aquaticinformatics.com/), an R consultant at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and as a Statistical Genetics researcher under the supervision of [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
+In the past, I've held positions as a Data Science co-op at [Aquatic Informatics](https://aquaticinformatics.com/), a Data Analyst at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html),
+an R consultant at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and as a Statistical Genetics researcher with[Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
