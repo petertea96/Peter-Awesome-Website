@@ -75,7 +75,7 @@ Furthermore, when a player has extra teammates on the ice (eg. while on the powe
 
 ## Random Effects Results
 
-Below, we plot the predicted random intercepts with corresponding two standard deviation bands for all players who participated in at least 15 draws. Intercept values of 0 represent \textit{average} faceoff skill, while deviations upward or downward represent above or below average skill, respectively.
+Below, we plot the predicted random intercepts with corresponding two standard deviation bands for all players who participated in at least 15 draws. Intercept values of 0 represent *average* faceoff skill, while deviations upward or downward represent above or below average skill, respectively.
 
 ![](random_intercepts.jpg)
 
