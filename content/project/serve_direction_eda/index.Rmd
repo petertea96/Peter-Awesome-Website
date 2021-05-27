@@ -1,22 +1,10 @@
 ---
-title: An EDA on Predicting Serve Direction
-author: Peter Tea
-date: '2021-04-19'
-categories:
-  - Tennis
-tags:
-  - Data Visualization
-  - Tennis
-  - 
-authors:
-  - admin
+title: "An EDA on Predicting Serve Direction"
+author: "StatsOnTheT"
+date: "19/04/2021"
 output:
   html_document:
-    keep_md: yes
-image:
-  caption: Photo by Elena Blessing on pexels.com
-  focal_point: Smart
-summary: Tennis Serve Direction EDA 
+  keep_md: yes
 ---
 
 ```{r setup, include=FALSE}

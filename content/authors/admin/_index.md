@@ -19,7 +19,7 @@ education:
     year: 2014 - 2019
 email: "petertea96@gmail.com"
 interests:
-- Sports Analytics
+- Bayesian Hierarchical Models
 - Tennis
 - Handstands
 organizations:
