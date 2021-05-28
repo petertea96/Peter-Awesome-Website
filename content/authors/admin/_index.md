@@ -51,7 +51,7 @@ user_groups:
 ---
 
 
-I am a MSc. Statistics student under the supervision of [Tim Swartz](http://people.stat.sfu.ca/~tim/). Sometimes I write tennis blogs, as a guest, hosted on [StatsOnTheT](http://on-the-t.com/).
+I am a MSc. Statistics student, supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/). I sometimes write tennis analytics blogs — as a guest — hosted on [StatsOnTheT](http://on-the-t.com/).
 
 
 Outside academia , I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html). In academia, I've been an R consultant at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
