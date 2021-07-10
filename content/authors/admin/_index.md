@@ -12,7 +12,7 @@ education:
   courses:
   - course: Msc Statistics
     institution: Simon Fraser University
-    year: 2019 - Present
+    year: 2019 - 2021
   - course: Bsc Biostatistics
     institution: University of Ottawa
     url: "https://www.stat.sfu.ca/people/grads.html"
@@ -20,8 +20,8 @@ education:
 email: "petertea96@gmail.com"
 interests:
 - Bayesian Hierarchical Models
-- Tennis
 - Handstands
+- Tennis
 organizations:
 - name: Simon Fraser University
   url: "https://www.stat.sfu.ca/people/grads.html"
@@ -51,7 +51,7 @@ user_groups:
 ---
 
 
-I am a MSc. Statistics student, supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/). I sometimes write tennis analytics blogs — as a guest — hosted on [StatsOnTheT](http://on-the-t.com/).
+I **completed** a Master's degree in Statistics at SFU, supervised by the legendary [Tim Swartz](http://people.stat.sfu.ca/~tim/)! You can find my recent tennis analytic blogs and data visualizations hosted on [StatsOnTheT](http://on-the-t.com/). 
 
 
 Outside academia , I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html). In academia, I've been an R consultant at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
