@@ -51,15 +51,15 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is Peter and I'm currently a tennis data scientist at [Sports Media Technology](http://smt-jax.com/). I've **completed** a Master's degree in Statistics at SFU, supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/)! 
+Hello! My name is Peter and I'm a tennis data scientist at [Sports Media Tech](http://smt-jax.com/). I received my Master's degree in Statistics at SFU, where I researched intended serve direction among professional tennis players using scraped ball-tracking data. This project was supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/). 
 
-Outside academia , I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) applying anomaly detection algorithms and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) studying tax-evasion. In academia, I've been an R consultant running programming workshops at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
-
-
-You can find my recent tennis analytic blogs and data visualizations hosted on [StatsOnTheT](http://on-the-t.com/):
+During school, I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) applying anomaly detection algorithms and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) studying tax-evasion. I've also been an R consultant running programming workshops at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
 
 
-* [A Spatial Exploration on Serves](http://on-the-t.com/2021/05/02/Spatial-Exploration-Serves/) (May 2021)
+You can find my recent tennis analytic blogs and data visualizations on twitter or hosted [on-the-t.com](http://on-the-t.com/):
+
+
+* [A Spatial Exploration of Serve Patterns](http://on-the-t.com/2021/05/02/Spatial-Exploration-Serves/) (May 2021)
 
 > Hawkeye tracking data is now publicly available! Using shot heatmaps, we dive into player service patterns and find that players overtly target the returner's `backhand` on second serve, and that `Roger Federer` has predictable serve patterns on high pressure points.
 
