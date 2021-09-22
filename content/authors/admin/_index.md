@@ -20,9 +20,9 @@ education:
     year: 2014 - 2019
 email: "petertea96@gmail.com"
 interests:
-- Bayesian Hierarchical Models
-- Handstands
+- Bayesian Models
 - Tennis
+- Handstands
 organizations:
 - name: Sports Media Technology
   url: "http://smt-jax.com/"
@@ -43,17 +43,17 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/petertea96
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://www.instagram.com/peter.tea1/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/peter.tea1/
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Hello! My name is Peter and I'm a tennis data scientist at [Sports Media Tech](http://smt-jax.com/). I received my Master's degree in Statistics at SFU, where I researched intended serve direction among professional tennis players using scraped ball-tracking data. This project was supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/). 
+Hello! My name is Peter and I'm a tennis data scientist at [Sports Media Tech](http://smt-jax.com/). I received my Master's in Statistics at SFU, where I applied Bayesian models predicting tennis serve direction using tracking data from Roland Garros. This project was supervised by [Tim Swartz](http://people.stat.sfu.ca/~tim/). 
 
-During school, I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) applying anomaly detection algorithms and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) studying tax-evasion. I've also been an R consultant running programming workshops at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
+I've interned at [Aquatic Informatics](https://aquaticinformatics.com/) applying anomaly detection algorithms and at the [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) studying tax-evasion. I've also been an R consultant running programming workshops at SFU [Research Commons](https://www.lib.sfu.ca/about/branches-depts/rc), and a Statistical Genetics researcher with [Kelly Burkett](https://mysite.science.uottawa.ca/kburkett/).
 
 
 You can find my recent tennis analytic blogs and data visualizations on twitter or hosted [on-the-t.com](http://on-the-t.com/):

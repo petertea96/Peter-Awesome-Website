@@ -4,6 +4,7 @@ author: Peter Tea
 date: '2021-03-06'
 categories:
   - Hockey
+  - Other
 tags:
   - Data Visualization
   - Hockey
