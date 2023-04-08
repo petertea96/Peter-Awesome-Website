@@ -6,7 +6,7 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 30
+  weight = 40
 
 
 [[main]]
@@ -16,14 +16,14 @@
 
 [[main]]
     name = "Resume"
-    url = "PTEA_Resume.pdf"
+    url = "peter_tea_resume.pdf"
     weight = 10
 
 
 [[main]]
     name = "Presentations"
     url = "talk"
-    weight = 40
+    weight = 30
 
 #[[main]]
 #  name = "Demo"

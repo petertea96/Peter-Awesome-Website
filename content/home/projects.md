@@ -32,10 +32,14 @@ subtitle = "Data Science Portfolio"
   [[content.filter_button]]
     name = "Basketball"
     tag = "Basketball"
+    
+ [[content.filter_button]]
+  name = "Hockey"
+  tag = "Hockey"
   
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+  #[[content.filter_button]]
+  #  name = "Other"
+  #  tag = "Other"
     
 
 
